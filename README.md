@@ -4,7 +4,7 @@
 
 ## Install
 
-1. [Download XIUIplus.dll](https://github.com/Shuu-37/xiuiplus-releases/releases/latest/download/XIUIplus.dll).
+1. [Download XIUIplus.dll (0.1.0-alpha)](https://github.com/Shuu-37/xiuiplus-releases/releases/download/v0.1.0-alpha/XIUIplus.dll).
 2. Put it in your Ashita `plugins` folder.
 3. In game, type `/load XIUIplus`.
 4. Type `/xiuip edit` to open settings and move your HUD.
